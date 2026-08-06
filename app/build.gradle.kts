@@ -52,6 +52,7 @@ android {
 }
 
 dependencies {
+//Android Studio Jellyfish | 2023.3.1 RC 1
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
